@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_e1GuUNVzEe60PK2hazbzNg" name="MotorsTL" dataPackage="_e1PRMNVzEe60PK2hazbzNg" Server="Localhost 127.0.0.1" FilePath="C:/Users/LnD/Documents/Formation Data/Qlick - Talend/Etude de cas -  M2I Vehicules/Etude de cas -  M2I Vehicules/MotorsTL.csv" Format="WINDOWS" Encoding="UTF-8" FieldSeparatorValue="&quot;,&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true" FieldSeparatorType="Comma"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_e1PRMNVzEe60PK2hazbzNg" name="default" dataManager="_e1GuUNVzEe60PK2hazbzNg">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_e1PRMdVzEe60PK2hazbzNg" id="_bpMocNVyEe60PK2hazbzNg" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_e1PRMtVzEe60PK2hazbzNg" label="_TypeLigne" length="5" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_e1PRM9VzEe60PK2hazbzNg" label="_V1" length="4" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_e1PRNNVzEe60PK2hazbzNg" label="_V2" length="11" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_e1PRNdVzEe60PK2hazbzNg" label="_V3" length="14" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_e1PRNtVzEe60PK2hazbzNg" label="_V4" length="27" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_e1PRN9VzEe60PK2hazbzNg" label="_V5" length="30" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_e1PRONVzEe60PK2hazbzNg" label="_V6" length="16" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_e1PROdVzEe60PK2hazbzNg" label="_V7" length="7" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_e1PROtVzEe60PK2hazbzNg" label="_V8" length="4" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_e1PRO9VzEe60PK2hazbzNg" label="_V9" length="16" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_e1PRPNVzEe60PK2hazbzNg" label="_V10" length="22" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_e1PRPdVzEe60PK2hazbzNg" label="_V11" length="21" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_e1PRPtVzEe60PK2hazbzNg" label="_V12" length="8" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_e1PRP9VzEe60PK2hazbzNg" label="Column13" length="2" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

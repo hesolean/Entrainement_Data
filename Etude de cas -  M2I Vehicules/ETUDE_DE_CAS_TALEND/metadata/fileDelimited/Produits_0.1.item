@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_PBoBsNYnEe69rKExWon4uw" name="Produits" id="_PAk40NYnEe69rKExWon4uw" dataPackage="_PBoBsdYnEe69rKExWon4uw" Server="Localhost 127.0.0.1" FilePath="C:/Users/LnD/Documents/Formation Data/Talend/TOS_DI-20211109_1610-V8.0.1/TOS_DI-20211109_1610-V8.0.1/workspace/Produits.csv" Format="WINDOWS" Encoding="UTF-8" FieldSeparatorValue="&quot;;&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FooterValue="0" LimitValue="" FirstLineCaption="true" EscapeChar="&quot;\&quot;&quot;" TextEnclosure="&quot;\&quot;&quot;"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_PBoBsdYnEe69rKExWon4uw" name="default" dataManager="_PBoBsNYnEe69rKExWon4uw">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_PBoBstYnEe69rKExWon4uw" id="_CRmEwNYnEe69rKExWon4uw" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_hXrhENYpEe69rKExWon4uw" name="IDPrd" label="IDPrd" length="4" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_hX1SENYpEe69rKExWon4uw"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_hX1SEdYpEe69rKExWon4uw" name="nomPrd" label="nomPrd" length="11" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_hX1SEtYpEe69rKExWon4uw"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_hX1SE9YpEe69rKExWon4uw" name="paysPrd" label="paysPrd" length="14" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_hX1SFNYpEe69rKExWon4uw"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_hX1SFdYpEe69rKExWon4uw" name="prixPrd" label="prixPrd" length="-1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_hX1SFtYpEe69rKExWon4uw"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_hX1SF9YpEe69rKExWon4uw" name="IDFam" label="IDFam" length="30" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_hX1SGNYpEe69rKExWon4uw"/>
+      </feature>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

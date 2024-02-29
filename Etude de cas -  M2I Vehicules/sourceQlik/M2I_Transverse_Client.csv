@@ -1,0 +1,101 @@
+IDClt;nomClt;prenomClt;adresseClt;villeClt;etatClt;depClt;regClt;telClt;adresseCmpltClt;regionClt;paysClt
+51;HAMILTON;Mary;235 Brooks Street;HOUSTON;TX;;4;+1 7139759801;235 Brooks Street HOUSTON TX;Sud;USA
+52;KEEGAN;Fred;43 Beach Parkway;MALIBU;CA;;1;+1 8082032100;43 Beach Parkway MALIBU CA;Ouest;USA
+53;WRIGHT;Mark;666 Sun Drive;HOLLYWOOD;CA;;1;+1 2139737305;666 Sun Drive HOLLYWOOD CA;Ouest;USA
+54;THOMAS;Steve;123 Lotus Road;HOLLYWOOD;CA;;1;+1 2139435303;123 Lotus Road HOLLYWOOD CA;Ouest;USA
+55;JONES;Claire;89 Beach Avenue;SANTA MONICA;CA;;1;+1 7143334307;89 Beach Avenue SANTA MONICA CA;Ouest;USA
+56;EDWARDS;Jane;2510 East Avenue;NEW YORK;NY;;3;+1 3156831300;2510 East Avenue NEW YORK NY;Est;USA
+57;JAMES;Bob;234 Melrose Blvd;HOLLYWOOD;CA;;1;+1 2139236308;234 Melrose Blvd HOLLYWOOD CA;Ouest;USA
+58;WRIGHT;Sarah;645 Sunset Blvd;DALLAS;TX;;4;+1 2148833304;645 Sunset Blvd DALLAS TX;Sud;USA
+59;CLARK;Peter;1250 Brooklyn Avenue;NEW YORK;NY;;3;+1 3158937300;1250 Brooklyn Avenue NEW YORK NY;Est;USA
+60;PETERS;Lou;2812 W86 Street;NEW YORK;NY;;3;+1 3152638300;2812 W86 Street NEW YORK NY;Est;USA
+61;LEWIS;Mike;3035 Center Green Drive;BOSTON;MA;;3;+1 6171238301;3035 Center Green Drive BOSTON MA;Est;USA
+62;MURPHY;Pat;552 Princess Street;HOLLYWOOD;CA;;1;+1 2139735300;552 Princess Street HOLLYWOOD CA;Ouest;USA
+63;GRANT;Ted;440 Oakmead Parkway;HOUSTON;TX;;4;+1 7130335303;440 Oakmead Parkway HOUSTON TX;Sud;USA
+64;CARTER;Sue;65 Andover Street;BOSTON;MA;;3;+1 6175739302;65 Andover Street BOSTON MA;Est;USA
+65;DANIELS;Janet;12 Palisades Drive;DETROIT;MI;;2;+1 3130531300;12 Palisades Drive DETROIT MI;Nord;USA
+66;SMITH;John;7525 West End Avenue;NEW YORK;NY;;3;+1 3159331301;7525 West End Avenue NEW YORK NY;Est;USA
+67;HARRIS;Ed;45 High Street;DALLAS;TX;;4;+1 2149633300;45 High Street DALLAS TX;Sud;USA
+68;ROBERTS;Debbie;112 Seaside Avenue;MALIBU;CA;;1;+1 8085739302;112 Seaside Avenue MALIBU CA;Ouest;USA
+69;THOMSON;Kim;224 Redondo Drive;DETROIT;MI;;2;+1 3132749300;224 Redondo Drive DETROIT MI;Nord;USA
+70;ANDERSON;Dave;2442 Meadowdale Lane;BOSTON;MA;;3;+1 6175632104;2442 Meadowdale Lane BOSTON MA;Est;USA
+71;KING;Hilary;125 Broadway Avenue;DALLAS;TX;;4;+1 4084724536;125 Broadway Avenue DALLAS TX;Sud;USA
+72;BARRY;John;3800 North Queen View;DALLAS;TX;;4;+1 2141232300;3800 North Queen View DALLAS TX;Sud;USA
+73;BLOFELD;Richard;151 Mississippi Drive;DALLAS;TX;;4;+1 2149299200;151 Mississippi Drive DALLAS TX;Sud;USA
+74;CONNOR;Pamela;2356 Ocean Drive;MALIBU;CA;;1;+1 8084537300;2356 Ocean Drive MALIBU CA;Ouest;USA
+75;GILBERT;Tom;423 Kenyon Drive;BOSTON;MA;;3;+1 6179038750;423 Kenyon Drive BOSTON MA;Est;USA
+76;HOGGS;Brian;2 Hollywood Blvd;MALIBU;CA;;1;+1 8082565670;2 Hollywood Blvd MALIBU CA;Ouest;USA
+77;WINSTON;Gary;15 Broad Street;BOSTON;MA;;3;+1 6175741740;15 Broad Street BOSTON MA;Est;USA
+78;SAUBER;Paul;99 Walker Street;HOUSTON;TX;;4;+1 7137329430;99 Walker Street HOUSTON TX;Sud;USA
+79;PADING;Micheal;101 University Avenue;SANTA MONICA;CA;;1;+1 7141659208;101 University Avenue SANTA MONICA CA;Ouest;USA
+80;Suzuki;Taro;1 Chome-10-1 Kabukicho;Shinjuku;JP-13;;6;+88 0312345678;1 Chome-10-1 Kabukicho Shinjuku JP-13;Kant≈ç;JAPAN
+81;Tanaka;Yoko;2 Chome-8-1 Nishishinjuku;Shinjuku;JP-13;;6;+88 0387654321;2 Chome-8-1 Nishishinjuku Shinjuku JP-13;Kant≈ç;JAPAN
+82;Watanabe;Ken;1-1 Yoyogi, Shibuya City;Shibuya;JP-11;;6;+88 0309876543;1-1 Yoyogi, Shibuya City Shibuya JP-11;Kant≈ç;JAPAN
+83;Kobayashi;Miho;4 Chome-2-8 Shibakoen;Minato City;JP-12;;6;+88 0321098765;4 Chome-2-8 Shibakoen Minato City JP-12;Kant≈ç;JAPAN
+84;Yamamoto;Hiroshi;1-1-2 Oshiage, Sumida City;Sumida;JP-14;;6;+88 0332109876;1-1-2 Oshiage, Sumida City Sumida JP-14;Kant≈ç;JAPAN
+85;CARRE;Christine;5 rue Mouffetard;Lalonquette;;93;11;+33 0155236554;5 rue Mouffetard Lalonquette;Occitanie;FRANCE
+86;AYMERAUD;GisËle;8 boulevard des Capucines;Gerderest;;94;11;+33 0143236554;8 boulevard des Capucines Gerderest;Occitanie;FRANCE
+87;MOREAU;Pierre;10 avenue Foch;SÈby;;95;11;+33 0143236513;10 avenue Foch SÈby;Occitanie;FRANCE
+88;LEGEAIS;Michel;10 rue du CouÈdic;Simacourbe;;18;24;+33 0245654312;10 rue du CouÈdic Simacourbe;Centre-Val de Loire;FRANCE
+89;BESSE;SÈverine;6 rue Saint-Sulpice;Saint-Jean-Poudge;;28;24;+33 0143237654;6 rue Saint-Sulpice Saint-Jean-Poudge;Centre-Val de Loire;FRANCE
+90;MARTIN;Jean;3 Place Royale;Burosse-Mendousse;;36;24;+33 0240897656;3 Place Royale Burosse-Mendousse;Centre-Val de Loire;FRANCE
+91;Dupont;Augustin;7, boulevard SÈbastien Vasseur;Poey-de-Lescar;;37;24;+33 0479253311;7, boulevard SÈbastien Vasseur Poey-de-Lescar;Centre-Val de Loire;FRANCE
+92;Lagarde;Jeanne;75, rue Ramos;SÈvignacq;;41;24;+33 0147492734;75, rue Ramos SÈvignacq;Centre-Val de Loire;FRANCE
+93;Vidal;Laetitia;86, avenue Adrien Bazin;Mouhous;;45;24;+33 0176729194;86, avenue Adrien Bazin Mouhous;Centre-Val de Loire;FRANCE
+94;Mallet;VÈronique;37, chemin de Richard;Anoye;;21;27;+33 0797856872;37, chemin de Richard Anoye;Normandie;FRANCE
+95;Lamy;FrÈdÈrique;35, chemin Colin;LonÁon;;25;27;+33 0255758643;35, chemin Colin LonÁon;Normandie;FRANCE
+96;Muller;Roland;95, rue de Adam;Coublucq;;39;27;+33 0181835299;95, rue de Adam Coublucq;Normandie;FRANCE
+97;Becker;Paul;rue HÈlËne Valentin;GarlËde-Mondebat;;58;27;+33 0474441998;rue HÈlËne Valentin GarlËde-Mondebat;Normandie;FRANCE
+98;Bigot;FrÈdÈrique;8, rue Valentine Lebon;Larreule;;70;27;+33 0480499638;8, rue Valentine Lebon Larreule;Normandie;FRANCE
+99;Brunel;Raymond;48, rue de Foucher;Lalongue;;71;27;+33 0351798776;48, rue de Foucher Lalongue;Normandie;FRANCE
+100;Maillet;Martin;4, avenue de Legros;Baleix;;89;27;+33 0432086911;4, avenue de Legros Baleix;Normandie;FRANCE
+101;Albert;ZoÈ;10, rue de Giraud;EscurËs;;90;27;+33 0624553555;10, rue de Giraud EscurËs;Normandie;FRANCE
+102;Pierre;ValÈrie;avenue Alexandria Petit;Miossens-Lanusse;;14;28;+33 0438785802;avenue Alexandria Petit Miossens-Lanusse;Centre-Val de Loire;FRANCE
+103;Grenier;Luc;9, avenue de Benard;Lasclaveries;;27;28;+33 0612721370;9, avenue de Benard Lasclaveries;Centre-Val de Loire;FRANCE
+104;Bodin;Nicole;985, chemin Jean Guillaume;Viellenave-d'Arthez;;50;28;+33 0484715401;985, chemin Jean Guillaume Viellenave-d'Arthez;Centre-Val de Loire;FRANCE
+105;Collin;Nicolas;rue Lucie Guillaume;Mazerolles;;61;28;+33 0160571824;rue Lucie Guillaume Mazerolles;Centre-Val de Loire;FRANCE
+106;Bourdon;Margaud;30, rue de Rossi;EscoubËs;;76;28;+33 0490283469;30, rue de Rossi EscoubËs;Centre-Val de Loire;FRANCE
+107;Chauvet;Arthur;4, rue Simone Salmon;Samsons-Lion;;2;32;+33 0366571183;4, rue Simone Salmon Samsons-Lion;Occitanie;FRANCE
+108;Picard;Charlotte;69, rue Moulin;Bougarber;;59;32;+33 0158809118;69, rue Moulin Bougarber;Occitanie;FRANCE
+109;Gay;Victoire;74, rue Bernard Laroche;Uzan;;60;32;+33 0667509622;74, rue Bernard Laroche Uzan;Occitanie;FRANCE
+110;Masse;ThÈophile;26, boulevard Alex Richard;Monassut-Audiracq;;62;32;+33 0476506458;26, boulevard Alex Richard Monassut-Audiracq;Occitanie;FRANCE
+111;Barre;…milie;4, rue Dominique Philippe;Pouliacq;;80;32;+33 0466284230;4, rue Dominique Philippe Pouliacq;Occitanie;FRANCE
+112;Vincent;Alice;65, rue Denise Barre;Lescar;;8;44;+33 0218280982;65, rue Denise Barre Lescar;Pays de la Loire;FRANCE
+113;Mathieu;Virginie;27, boulevard de Gaudin;MÈracq;;10;44;+33 0219173996;27, boulevard de Gaudin MÈracq;Pays de la Loire;FRANCE
+114;Duhamel;Caroline;84, chemin de Bouchet;CarrËre;;51;44;+33 0759275666;84, chemin de Bouchet CarrËre;Pays de la Loire;FRANCE
+115;Blot;Philippine;8, boulevard de LefËvre;Lespielle;;52;44;+33 0153437395;8, boulevard de LefËvre Lespielle;Pays de la Loire;FRANCE
+116;Paris;GeneviËve;47, rue Fernandez;Saint-Gondon;;54;44;+33 0234042681;47, rue Fernandez Saint-Gondon;Pays de la Loire;FRANCE
+117;Lefort;Monique;5, rue Muller;Bonny-sur-Loire;;55;44;+33 0176597147;5, rue Muller Bonny-sur-Loire;Pays de la Loire;FRANCE
+118;Giraud;ClÈmence;30, rue de Richard;Barlieu;;57;44;+33 0524930184;30, rue de Richard Barlieu;Pays de la Loire;FRANCE
+119;Baudry;Anne;47, boulevard Victor Le Roux;Saint-Brisson-sur-Loire;;67;44;+33 0581924410;47, boulevard Victor Le Roux Saint-Brisson-sur-Loire;Pays de la Loire;FRANCE
+120;Rodrigues;Mathilde;8, boulevard Langlois;Ousson-sur-Loire;;68;44;+33 0175428818;8, boulevard Langlois Ousson-sur-Loire;Pays de la Loire;FRANCE
+121;Le Gall;Lorraine;129, rue de Perrin;Ch‚tillon-sur-Loire;;88;44;+33 0458438399;129, rue de Perrin Ch‚tillon-sur-Loire;Pays de la Loire;FRANCE
+122;Clerc;AndrÈ;18, avenue Victor Delattre;Lion-en-Sullias;;44;52;+33 0385339600;18, avenue Victor Delattre Lion-en-Sullias;Grand Est;FRANCE
+123;Boyer;InËs;rue Nathalie Roy;Belleville-sur-Loire;;49;52;+33 0361046201;rue Nathalie Roy Belleville-sur-Loire;Grand Est;FRANCE
+124;Legrand;Josette;chemin Arthur Blanc;Saint-Florent;;53;52;+33 0517436512;chemin Arthur Blanc Saint-Florent;Grand Est;FRANCE
+125;Pierre;Daniel;331, rue Duval;Santranges;;72;52;+33 0561171127;331, rue Duval Santranges;Grand Est;FRANCE
+126;Blanchard;Franck;rue Arnaude Carre;Nevoy;;85;52;+33 0214347886;rue Arnaude Carre Nevoy;Grand Est;FRANCE
+127;Launay;Hugues;avenue Laure Charpentier;Poilly-lez-Gien;;22;53;+33 0354146710;avenue Laure Charpentier Poilly-lez-Gien;Pays de la Loire;FRANCE
+128;Meyer;Georges;990, chemin Lemonnier;Saint-Martin-sur-Ocre;;29;53;+33 0495233058;990, chemin Lemonnier Saint-Martin-sur-Ocre;Pays de la Loire;FRANCE
+129;Klein;Christine;chemin de Boyer;Beaulieu-sur-Loire;;35;53;+33 0619570098;chemin de Boyer Beaulieu-sur-Loire;Pays de la Loire;FRANCE
+130;Ollivier;Madeleine;7, avenue Jourdan;Les Choux;;56;53;+33 0257850842;7, avenue Jourdan Les Choux;Pays de la Loire;FRANCE
+131;Legendre;Antoine;67, chemin Adrien Gaillard;Autry-le-Ch‚tel;;16;75;+33 0536301266;67, chemin Adrien Gaillard Autry-le-Ch‚tel;Œle-de-France;FRANCE
+132;Leconte;Thibaut;11, rue de Masse;Cernoy-en-Berry;;17;75;+33 0230815826;11, rue de Masse Cernoy-en-Berry;Œle-de-France;FRANCE
+133;Gilles;StÈphanie;8, rue de Verdier;Sury-prËs-LÈrÈ;;19;75;+33 0388558620;8, rue de Verdier Sury-prËs-LÈrÈ;Œle-de-France;FRANCE
+134;Boulay;ThÈodore;337, avenue de Aubert;Saint-Firmin-sur-Loire;;23;75;+33 0156500894;337, avenue de Aubert Saint-Firmin-sur-Loire;Œle-de-France;FRANCE
+135;Royer;Odette;79, rue Anne Royer;Dammartin-en-GoÎle;;24;75;+33 0139136925;79, rue Anne Royer Dammartin-en-GoÎle;Œle-de-France;FRANCE
+136;Boulanger;StÈphanie;84, chemin CÈline Meyer;Longperrier;;33;75;+33 0298368656;84, chemin CÈline Meyer Longperrier;Œle-de-France;FRANCE
+137;Menard;Margot;291, rue Fischer;Briord;;40;75;+33 0695949921;291, rue Fischer Briord;Œle-de-France;FRANCE
+138;Thierry;Gabrielle;71, avenue Monique Legrand;Montalieu-Vercieu;;47;75;+33 0474770250;71, avenue Monique Legrand Montalieu-Vercieu;Œle-de-France;FRANCE
+139;Hamel;Henriette;2, rue Brigitte Jourdan;Villebois;;64;75;+33 0329817686;2, rue Brigitte Jourdan Villebois;Œle-de-France;FRANCE
+140;Gallet;SÈbastien;472, rue de Cohen;Montagnieu;;79;75;+33 0619542842;472, rue de Cohen Montagnieu;Œle-de-France;FRANCE
+141;Fontaine;Alexandre;51, rue FrÈdÈrique Dos Santos;Porcieu-Amblagnieu;;86;75;+33 0499970078;51, rue FrÈdÈrique Dos Santos Porcieu-Amblagnieu;Œle-de-France;FRANCE
+142;Becker;Patricia;chemin …lisabeth Ribeiro;Arandon-Passins;;87;75;+33 0606748587;chemin …lisabeth Ribeiro Arandon-Passins;Œle-de-France;FRANCE
+143;Goncalves;Paul;boulevard Durand;Creys-MÈpieu;;9;76;+33 0465024299;boulevard Durand Creys-MÈpieu;Normandie;FRANCE
+144;Marie;Michelle;12, rue Jacquet;Charette;;11;76;+33 0179312315;12, rue Jacquet Charette;Normandie;FRANCE
+145;Gonzalez;Diane;390, chemin de Roger;Sault-BrÈnaz;;12;76;+33 0488470282;390, chemin de Roger Sault-BrÈnaz;Normandie;FRANCE
+146;Michel;Georges;boulevard de Marchand;Bouvesse-Quirieu;;30;76;+33 0449767862;boulevard de Marchand Bouvesse-Quirieu;Normandie;FRANCE
+147;Berthelot;RÈmy;38, rue Alves;Aleyrac;;31;76;+33 0383504415;38, rue Alves Aleyrac;Normandie;FRANCE
+148;Thierry;…lisabeth;61, avenue Margaud Meyer;Grignan;;32;76;+33 0276396752;61, avenue Margaud Meyer Grignan;Normandie;FRANCE
+149;Aubry;Anouk;45, rue Jeanne Reynaud;Allan;;34;76;+33 0355735741;45, rue Jeanne Reynaud Allan;Normandie;FRANCE
+150;Ribeiro;Julie;99, chemin Audrey Monnier;Grillon;;46;76;+33 0619122501;99, chemin Audrey Monnier Grillon;Normandie;FRANCE

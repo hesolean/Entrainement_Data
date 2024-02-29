@@ -1,0 +1,84 @@
+[ {
+  "baseItem" : {
+    "id" : "_SQ6qcNVyEe60PK2hazbzNg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_6NIcENZHEe69rKExWon4uw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_9eiLINY2Ee69rKExWon4uw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_LyL9UNY_Ee69rKExWon4uw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_Mia3gNYrEe69rKExWon4uw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_PAk40NYnEe69rKExWon4uw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_TFxKkNY9Ee69rKExWon4uw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_TcWl8NY6Ee69rKExWon4uw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_gkv6MNYnEe69rKExWon4uw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_iEY7cNY8Ee69rKExWon4uw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_6NIcENZHEe69rKExWon4uw - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_9eiLINY2Ee69rKExWon4uw - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_LyL9UNY_Ee69rKExWon4uw - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_Mia3gNYrEe69rKExWon4uw - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_PAk40NYnEe69rKExWon4uw - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_TFxKkNY9Ee69rKExWon4uw - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_TcWl8NY6Ee69rKExWon4uw - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_e0MIUNVzEe60PK2hazbzNg - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_gkv6MNYnEe69rKExWon4uw - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_iEY7cNY8Ee69rKExWon4uw - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]

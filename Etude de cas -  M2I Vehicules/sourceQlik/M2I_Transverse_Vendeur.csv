@@ -1,0 +1,46 @@
+IDVend;nomVend;prenomVend;anneeEmbaucheVend;bureauVend;codeBudgetVend;dateEmbaucheVend;nomCompltVend;fonctionvend;gradeVend;niveauVend;SalAnnuelVend
+1;Roll;Frank;2003;05;1-5;1/10/2013;Roll Frank;Représentant;501;04;61000.0
+2;Presley;Erik;1993;01;2-1;14/9/2003;Presley Erik;Président;101;-;180000.0
+3;Carsson;Rob;1994;01;3-1;1/10/2004;Carsson Rob;Représentant;102;04;63000.0
+4;Callins;Joan;1994;03;4-3;3/9/2004;Callins Joan;Directeur des Ventes;301;02;120000.0
+5;Hendrix;Ingrid;1995;03;5-3;17/10/2005;Hendrix Ingrid;Représentant;302;04;61300.0
+6;Skoglund;Lennart;2004;04;6-4;17/1/2014;Skoglund Lennart;Représentant;401;04;61200.0
+7;Lindwall;Tom;1995;02;7-2;22/11/2005;Lindwall Tom;Représentant;201;04;61000.0
+8;Shine;Leif;2004;02;8-2;3/5/2004;Shine Leif;Coordinateur des ventes;202;02;65000.0
+9;Brolin;Helen;1995;01;9-1;15/2/2005;Brolin Helen;Représentant;103;04;60000.0
+10;Lawson;David;1993;02;19-2;10/10/2003;Lawson David;Directeur de Production;222;08;55500.0
+11;Cleaves;John;2004;03;20-3;10/3/2004;Cleaves John;Directeur de Production;333;08;55000.0
+12;Takako;Miro;1995;04;21-4;22/2/2005;Takako Miro;Directeur de Production;444;08;55000.0
+13;Protzmann;Binh;1994;05;22-5;3/6/2004;Protzmann Binh;Directeur de Production;555;08;56000.0
+14;Sandu;Cezar;2002;02;23-2;22/2/2012;Sandu Cezar;Directeur des Systemes;200;19;51000.0
+15;Crawford;Judy;1995;02;24-2;6/8/2005;Crawford Judy;Directeur des Systemes;200;19;50400.0
+16;Bosch;James;2003;02;25-2;7/6/2013;Bosch James;Directeur des Systemes;200;19;50000.0
+17;Devlin;John;2001;02;26-2;8/1/2011;Devlin John;Directeur des Systemes;200;19;51600.0
+18;Kregler;Mario;2004;05;27-5;6/5/2014;Kregler Mario;Directeur des Systemes;500;22;51300.0
+19;Dupont;Paul;2000;05;28-5;2/6/2010;Dupont Paul;Directeur des Systemes;500;22;51200.0
+20;Stevenson;Sven;2001;05;29-5;29/1/2011;Stevenson Sven;Magasinier;500;22;51000.0
+21;Baumel;Ira;1997;05;30-5;31/12/2007;Baumel Ira;Magasinier;500;22;50200.0
+22;Helmkey;Keith;2002;05;31-5;31/3/2012;Helmkey Keith;Magasinier;500;22;50200.0
+23;Wesenlund;Rolf;1998;03;32-3;29/7/2008;Wesenlund Rolf;Magasinier;300;20;50300.0
+24;Lindquist;Ann;2004;03;33-3;11/1/2014;Lindquist Ann;Magasinier;300;20;50100.0
+25;Yang;Bill;2003;03;34-3;1/11/2013;Yang Bill;Magasinier;300;20;50500.0
+26;Jönsson;Charles Ingvar;1996;03;35-3;31/12/2006;Jönsson Charles Ingvar;Magasinier;300;20;50000.0
+27;Clouseau;Jacques;2001;03;36-3;8/2/2011;Clouseau Jacques;Magasinier;300;20;51000.0
+28;Tessel;Jerry;2003;04;37-4;8/2/2013;Tessel Jerry;Directeur de la communication;400;21;72000.0
+29;Applegate;John;2001;04;38-4;9/2/2011;Applegate John;Directeur de la communication;400;21;68000.0
+30;Salvatori;Marcus;2000;04;39-4;1/7/2010;Salvatori Marcus;Magasinier;400;21;51000.0
+31;Simenon;Olivier;1996;04;40-4;31/12/1996;Simenon Olivier;Magasinier;400;21;55000.0
+32;Gupta;Sunil;1997;04;41-4;1/4/2007;Gupta Sunil;Magasinier;400;21;50000.0
+33;Ärlig;Östen;2003;01;42-1;24/12/2013;Ärlig Östen;Directeur Financier;104;03;51000.0
+34;Park;Bob;2001;02;43-2;10/9/2011;Park Bob;Directeur Financier;203;07;50000.0
+35;Kent;Andrew;2004;02;44-2;31/1/2014;Kent Andrew;Directeur Financier;204;07;55000.0
+36;Cheng;Joe;1999;03;45-3;8/2/2009;Cheng Joe;Directeur Financier;303;05;52000.0
+37;Alpan;Kaya;1998;03;46-3;21/1/2008;Alpan Kaya;Directeur Financier;304;05;51000.0
+38;Tyson;Michelle;1997;04;47-4;2/1/2007;Tyson Michelle;Directeur Financier;402;06;50000.0
+39;Gucci;Ricardo;2002;04;48-4;1/1/2012;Gucci Ricardo;Directeur Financier;403;06;47600.0
+40;Lanza;Luke;2003;03;51-3;1/3/2013;Lanza Luke;Operateur;-;04;35700.0
+41;Ashkenaz;Mike;2000;01;52-1;30/11/2010;Ashkenaz Mike;Directeur Financier;-;42;49500.0
+42;Ranieri;Richard;1999;02;53-2;1/7/2009;Ranieri Richard;Directeur Financier;-;23;49500.0
+43;Richards;Sabrina;2003;03;54-3;4/3/2013;Richards Sabrina;Directeur Financier;-;32;49500.0
+44;Daw;Sehoon;2002;04;55-4;30/11/2012;Daw Sehoon;Directeur Financier;-;37;49500.0
+45;Lind;Stefan;1999;05;161-5;28/12/2009;Lind Stefan;Directeur Financier;-;27;49500.0

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_gkv6MdYnEe69rKExWon4uw" name="Familles" id="_gkv6MNYnEe69rKExWon4uw" dataPackage="_gkv6MtYnEe69rKExWon4uw" Server="Localhost 127.0.0.1" FilePath="C:/Users/LnD/Documents/Formation Data/Talend/TOS_DI-20211109_1610-V8.0.1/TOS_DI-20211109_1610-V8.0.1/workspace/Familles.csv" Format="WINDOWS" Encoding="US-ASCII" FieldSeparatorValue="&quot;;&quot;" RowSeparatorValue="&quot;\n&quot;" HeaderValue="0"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_gkv6MtYnEe69rKExWon4uw" name="default" dataManager="_gkv6MdYnEe69rKExWon4uw">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_gkv6M9YnEe69rKExWon4uw" id="_Wv7xMNYnEe69rKExWon4uw" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mIPGANYpEe69rKExWon4uw" name="IDFam" label="IDFam" length="4" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_mIPGAdYpEe69rKExWon4uw"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_mIPGAtYpEe69rKExWon4uw" name="Famille" label="Famille" length="11" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_mIPGA9YpEe69rKExWon4uw"/>
+      </feature>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>
